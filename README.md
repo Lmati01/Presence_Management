@@ -10,7 +10,7 @@ Une application de gestion des présences utilisant la reconnaissance faciale, d
 
 ## 🎥 Démonstration
 
-https://github.com/Lmati01/Presence_Management/assets/test_video.mp4
+[https://github.com/Lmati01/Presence_Management/assets/test_video.mp4](https://github.com/Lmati01/Presence_Management/issues/1#issue-2804448626)
 
 Regardez la vidéo de démonstration ci-dessus pour voir l'application en action !
 
