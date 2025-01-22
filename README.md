@@ -8,6 +8,11 @@ Une application de gestion des présences utilisant la reconnaissance faciale, d
 - Une webcam fonctionnelle
 - Git
 
+## 🎥 Vidéo de Test
+
+Une vidéo de démonstration est disponible pour tester l'application :
+- `test_video.mp4` : Montre les fonctionnalités principales de l'application en action
+
 ## 🚀 Installation
 
 1. Clonez le repository :
