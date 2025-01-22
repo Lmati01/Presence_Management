@@ -8,10 +8,11 @@ Une application de gestion des présences utilisant la reconnaissance faciale, d
 - Une webcam fonctionnelle
 - Git
 
-## 🎥 Vidéo de Test
+## 🎥 Démonstration
 
-Une vidéo de démonstration est disponible pour tester l'application :
-- `test_video.mp4` : Montre les fonctionnalités principales de l'application en action
+https://github.com/Lmati01/Presence_Management/assets/test_video.mp4
+
+Regardez la vidéo de démonstration ci-dessus pour voir l'application en action !
 
 ## 🚀 Installation
 
